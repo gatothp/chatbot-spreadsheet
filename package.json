@@ -29,11 +29,19 @@
   },
   "homepage": "https://github.com/Fathb/chatbot#readme",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.4.1",
+    "@whiskeysockets/baileys": "^6.6.0",
+    "google-spreadsheet": "^4.1.4",
+    "googleapi": "^1.0.2",
     "googleapis": "^91.0.0",
+    "moment": "^2.30.1",
     "node-fetch": "^2.6.7",
-    "nodemon": "^2.0.19",
-    "qrcode-terminal": "^0.12.0"
+    "node-wav-player": "^1.0.0",
+    "nodemon": "^3.1.0",
+    "play-sound": "^1.1.6",
+    "puppeteer": "^23.8.0",
+    "qrcode-terminal": "^0.12.0",
+    "sound-play": "^1.1.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "dotenv": "^16.0.2"
