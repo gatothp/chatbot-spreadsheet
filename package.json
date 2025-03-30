@@ -29,9 +29,13 @@
   },
   "homepage": "https://github.com/Fathb/chatbot#readme",
   "dependencies": {
+<<<<<<< HEAD
     "@whiskeysockets/baileys": "^6.6.0",
     "google-spreadsheet": "^4.1.4",
     "googleapi": "^1.0.2",
+=======
+    "@whiskeysockets/baileys": "^6.7.5",
+>>>>>>> 007ae0fb88d02f6c938f5c233240a4cb86cf7273
     "googleapis": "^91.0.0",
     "moment": "^2.30.1",
     "node-fetch": "^2.6.7",
